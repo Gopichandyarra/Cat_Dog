@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'dogcatzenbook'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8C59A35302B43F581D507D87035BA24 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_83463CA4EAD244399930BB2DCDEE4333 }}
